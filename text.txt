@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Happy Cat</title>
+    </head>
+    <body>
+        <img alt="Happy Cat" src="cat.jpg"/>
+    </body>
+</html>

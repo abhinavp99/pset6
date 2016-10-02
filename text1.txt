@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+X-Powered-By: PHP/5.5.9-1ubuntu4.14
+Content-type: text/html
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>hello</title>
+    </head>
+    <body>
+                    hello, apple            </body>
+</html>
